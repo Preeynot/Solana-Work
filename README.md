@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/Preeynot/Solana-Work.git
 
-cd Roulette-game-in-Solana
+cd Solana-Work
 ```
 * Install the dependencies:
 
